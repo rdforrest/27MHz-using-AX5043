@@ -13,5 +13,5 @@ Some really good developments:
 - It would seem that the AX5043 is not being discontinued, after all:
 https://community.onsemi.com/s/article/FAQ-Is-the-AX5043-going-EOL-soon-No
 
-- Rob Schuckman in Holland has been doing some very good development work. I have been using two of his TX and RXs in my submarines since october 2024 and they are working very well. You can see details of his work over here:
+- Rob Schuckman in Holland has been doing some very good development work. I have been using two of his TX and RXs in my submarines since October 2024 and they are working very well. You can see details of his work over here:
   https://robschuckman.wixsite.com/robschuckman/27mhz-remote-control
